@@ -25,6 +25,8 @@ This project answers these questions through data analysis and interactive dashb
 ## 📂 Dataset
 
 **Dataset:** Electric Vehicle Population Data
+**Download Link:** https://drive.google.com/file/d/1-Uoq0DwUo0pYeAK06dIC4UJmLW09oy5z/view?usp=sharing
+
 
 The dataset contains information such as:
 
