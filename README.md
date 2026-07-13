@@ -92,19 +92,15 @@ The dashboards include:
 
 ---
 
-## 📷 Dashboard Preview
+## 📷 Dashboard Preview 
+**PowerBI**
 
-> Add screenshots in the `Images/` folder and reference them here.
+<img width="1551" height="868" alt="Screenshot 2026-07-13 071550" src="https://github.com/user-attachments/assets/e623645a-f5e6-4072-93b9-cdcbbe1db2b8" />
 
-Example:
+**Tableau**
+<img width="1576" height="895" alt="image" src="https://github.com/user-attachments/assets/f1d58f35-eb0a-4dfb-ba66-46e64bee1735" />
 
-```markdown
-![Power BI Dashboard](Images/powerbi_dashboard.png)
 
-![Tableau Dashboard](Images/tableau_dashboard.png)
-```
-
----
 
 ## 🔍 Key Insights
 
