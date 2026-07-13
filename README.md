@@ -57,11 +57,9 @@ The dataset contains information such as:
 1. Data Collection
 2. Data Cleaning
 3. Data Validation
-4. SQL Analysis
-5. Exploratory Data Analysis using Python
-6. Dashboard Development in Power BI
-7. Dashboard Development in Tableau
-8. Business Insights and Recommendations
+4. Dashboard Development in Power BI
+5. Dashboard Development in Tableau
+6. Business Insights and Recommendations
 
 ---
 
